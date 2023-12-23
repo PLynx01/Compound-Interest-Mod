@@ -1,0 +1,19 @@
+{
+    "name": "Compound Interest",
+    "uniques": [
+
+        // Bonuses
+
+        "[+1 Gold] per every [200] [Gold] <after discovering [Banking]>",
+        "[+1 Gold] per every [200] [Gold] <after discovering [Economics]>",
+        "[+1 Gold] per every [200] [Gold] <starting from the [Industrial era]>",
+        "[+1 Gold] per every [200] [Gold] <starting from the [Modern era]>",
+        "[+1 Gold] per every [200] [Gold] <starting from the [Atomic era]>",
+
+
+        // Golden Age Bonuses
+        "[+1 Gold] per every [200] [Gold] <during a Golden Age> <starting from the [Industrial era]>",
+        "[+1 Gold] per every [200] [Gold] <during a Golden Age> <starting from the [Atomic era]>",
+        
+    ]
+}
